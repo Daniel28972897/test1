@@ -28,3 +28,4 @@ A lo largo del curso se irán agregando nuevas funcionalidades hasta obtener un 
 - Raspberry Pi (para las prácticas posteriores)
 
 ## Estructura del proyecto
+.
